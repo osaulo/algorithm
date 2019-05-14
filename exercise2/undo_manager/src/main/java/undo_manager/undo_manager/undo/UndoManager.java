@@ -1,4 +1,4 @@
-package undo;
+package undo_manager.undo_manager.undo;
 
 /**
  * A manager for undo and redo operations to {@link Document}s, based

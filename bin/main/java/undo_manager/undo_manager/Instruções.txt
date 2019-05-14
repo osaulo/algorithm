@@ -1,0 +1,13 @@
+O UndoManager é um subsistema de exemplo pequeno e independente. Você pode usar qualquer IDE 
+que quiser, você pode encontrar as fontes no diretório "src".
+
+Consiste em um par de interfaces que todos jogam juntos para cumprir a tarefa de rastrear, 
+desfazer e refazer alterações em algum documento de texto.
+Você pode pensar nisso como um subsistema de um editor de texto.
+
+A tarefa é entender as interfaces e qual o papel que elas desempenham no Contexto do UndoManager e,
+ em seguida, com base nesse entendimento, escreva implementações de APENAS as interfaces 
+ UndoManager e UndoManagerFactory.
+
+Quais métodos você conhece para garantir que o código realmente faça o que é suposto fazer? 
+Aplique-os!

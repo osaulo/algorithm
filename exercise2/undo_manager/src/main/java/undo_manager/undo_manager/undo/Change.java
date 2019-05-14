@@ -1,4 +1,4 @@
-package undo;
+package undo_manager.undo_manager.undo;
 
 /**
  * An abstraction of a change that can be registered with an
